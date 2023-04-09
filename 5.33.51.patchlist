@@ -1,0 +1,37 @@
+- Translations Music (ALL)
+ Add Crowdin Translations from ReVanced Extended to YouTube Music Vanced
+- TasteBuilder Remover (ALL) 
+ Removes the "Tell us which artists you like" card from the home screen.
+- Hide Get Premium (ALL)
+ Removes all "Get Premium" evidences from the avatar menu.
+- Hide Music Cast Button (ALL)
+ Hides the cast button in the video player and header
+Minimized Playback Music (ALL) 
+ Enables minimized playback on Kids music.
+- Black Navbar (ALL)
+ Sets the navigation bar color to black.
+- Miniplayer Color 
+ Matches the fullscreen player color with the minimized one.
+- Compact Header (ALL)
+Hides the music category bar at the top of the homepage.
+- Minimized Player (ALL)
+Permanently keep player minimized even if
+another track is played.
+- Tablet Mode (ALL)
+ Unlocks landscape mode.
+- Upgrade Button Remover (ALL)
+ Removes the upgrade tab from the pivot bar.
+- Music Video Ads (ALL) 
+Removes ads in the music player.
+- Background Play (ALL)
+Enables playing music in the background.
+- Exclusive Audio Playback (ALL) 
+Enables the option to play music without video.
+- Codecs Unlock (ALL)
+Adds more audio codec options. The new audio codecs usually result in better audio quality.
+- Music Settings (ALL)
+ Adds settings for ReVanced to YouTube Music. (ONLY FOR MAGISK MODULE VARIANT)
+- Optimize Resource Music (ALL)
+ Remove unnecessary resources.
+- Client Spoof Music (ALL)
+ Spoofs the YouTube Music client.
