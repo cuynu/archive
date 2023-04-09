@@ -1,0 +1,50 @@
+- Swipe Controls
+ Adds volume and brightness swipe controls.
+- Overlay Buttons
+ Add overlay buttons for YouTube - copy, copy with timestamp, repeat, download.
+- Seekbar Tapping
+Enables tap-to-seek on the seekbar of the video player.
+- Return Youtube Dislikes
+ Shows the dislike count of videos using the Return YouTube Dislike API.
+- Hide Autoplay Button
+ Hides the autoplay button in the video player.
+- Disable Startup Shorts Player 
+Disables playing YouTube Shorts when launching YouTube Vanced
+- Remove Playerbutton Background
+ Disable Player Button Overlay Background.
+- Extended
+ Add ReVanced Extended Features. (Renamed to Vanced)
+- Old Quality Layout 
+ Enables the original quality layout menu.
+- Sponsorblock 
+ Integrate SponsorBlock.
+- Enable Wide Searchbar
+ Replaces the search icon with a wide search bar. This will hide the YouTube logo when active.
+- Tablet Mini Player 
+ Enables the tablet mini player layout.
+- Disable Auto Captions 
+ Disable forced captions from being automatically enabled.
+- Minimized Playback 
+ Enables minimized and background playback.
+- Client Spoof V2
+Spoof the YouTube client version to prevent fullscreen rotation issue.
+- Crowdin translation
+Use all crowdin ReVanced Extended translation
+- Custom Video Buffer
+ Lets you change the buffers of videos.
+- Settings
+Add all ReVanced Settings to YouTube (Vanced)
+- Custom Playback Speed 
+ Adds more video playback speed options.
+- Hdr Auto Brightness 
+ Makes the brightness of HDR videos follow the system default.
+- Remember Video Quality 
+ Add the ability to remember the video quality you chose in the video quality layout.
+- Default Video Speed
+Adds the ability to set default video speed.
+- Video Advertisement
+Removes advertisement in the video player.
+- General advertisement
+Remove General advertisement
+- Hide info cards suggestions
+Hide info cards suggestions in video player.
