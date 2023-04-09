@@ -1,0 +1,82 @@
+- Swipe Controls  : 
+ Adds volume and brightness swipe controls.
+- Overlay Buttons :
+ Add overlay buttons for YouTube - copy, copy with timestamp, repeat, download.
+- Overlay Buttons Alternative Icon : 
+ Use alternative Icons for the overlay buttons.
+- Seekbar Tapping : 
+ Enables tap-to-seek on the seekbar of the video player.
+- Disable Create Button 
+Hides the create button in the navigation bar.
+- Return Youtube Dislikes
+Shows the dislike count of videos using the Return YouTube Dislikes
+- Disable Auto Player Popup
+Hides the autoplay button in the video player.
+- Hide Autoplay Button 
+Hides the autoplay button in the video player.
+- Hide Captions Button
+ Hides the captions button in the video player.
+- Disable Startup Shorts Player
+Disables playing YouTube Shorts when launching YouTube.
+- Remove Playerbutton Background 
+Disable Player Button Overlay Background.
+- Hide Pip Notification 
+Disable PiP notification when you first launch pip mode.
+- Hide Time And Seekbar
+Hides progress bar and time counter on videos.
+- Extended 
+ Add all Vanced features based on ReVanced.
+- Old Quality Layout 
+ Enables the original quality flyout menu.
+- Hide Shorts Button 
+Hides the shorts button on the navigation bar.
+- Hide Email address 
+Hides the email address in the account switcher.
+- Sponsorblock
+ Integrate SponsorBlock.
+- Enable Wide Searchbar
+ Replaces the search icon with a wide search bar. This will hide the YouTube logo when active.
+- Layout Switch
+Tricks the dpi to use some tablet/phone layouts.
+- Tablet Mini Player 
+ Enables the tablet mini player layout.
+- Disable Auto Captions 
+Disable forced captions from being automatically enabled.
+- Minimized Playback 
+Enables minimized and background playback.
+- Client Spoof
+Spoofs the YouTube or Vanced client to prevent playback issues.
+- Client Spoof V2
+Spoof the YouTube client version to prevent fullscreen rotation issue.
+- Translations
+Add Crowdin ReVanced Extended Translations.
+- Custom Video Buffer 
+Lets you change the buffers of videos.
+- Always Autorepeat
+Always repeats the playing video again.
+- Settings
+ Adds settings for ReVanced to YouTube Vanced.
+- Custom Playback Speed 
+Adds more video playback speed options.
+- Hdr Auto Brightness 
+Makes the brightness of HDR videos follow the system default.
+- Hide Button Container 
+ Removes button container.
+- Inapp Browser 
+Use an external browser to open the url.
+- Parse Uri Redirect 
+Follow direct links, bypassing youtube.com/redirect.
+- Hide My Mix
+ Remove My Mix from home feed and video player.
+- Optimize Resource
+Optimize resources to make your app lightweight, Add missing translations to YouTube Vanced.
+- Remember Video Quality 
+ Adds the ability to remember the video quality you chose in the video quality flyout.
+- Default Video Speed
+Adds the ability to set default video speed.
+- Video Ads
+ Removes ads in the video player.
+- General Ads
+ Removes general ads.
+- Hide Infocard suggestions
+Hide infocards from video.
